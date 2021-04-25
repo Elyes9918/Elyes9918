@@ -2,7 +2,6 @@
 
 <hr>
 <img align="left" width = "230px" height = "80px" src="https://yue.panchikawattamultipoint.pw/img/nyan-cat-gif-transparent-background.png" /> <img align="center" width="200px" height ="65px" src ="https://freepngimg.com/thumb/unicorn/26005-3-unicorn-transparent-image.png"/><hr>
-<br>
 
 
 ### Connect With me 
