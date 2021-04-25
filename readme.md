@@ -15,6 +15,5 @@
 <br/>
 
 ### Connect With me 
-[<img align="left" alt="Instagram" width="30px" src="https://i.pinimg.com/originals/66/41/c9/6641c94e15a0be37af49a4250386c03e.png" />][website]
-<br>
-[website]:https://www.instagram.com/elyes_bouallegue/
+[<img align="left" alt="Instagram" width="30px" src="https://i.pinimg.com/originals/66/41/c9/6641c94e15a0be37af49a4250386c03e.png" />](https://www.instagram.com/elyes_bouallegue/)
+
