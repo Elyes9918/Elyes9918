@@ -1,5 +1,5 @@
 <br>
-<img align="left" width = "400px" height = "200" src="https://yue.panchikawattamultipoint.pw/img/nyan-cat-gif-transparent-background.png" />
+<img align="left" width = "300px" height = "100" src="https://yue.panchikawattamultipoint.pw/img/nyan-cat-gif-transparent-background.png" />
 <br>
 
 
