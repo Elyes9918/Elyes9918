@@ -4,7 +4,7 @@
 [<img align="left" alt="Facebook" width="34px" src="https://www.vectorico.com/download/social_media/Reddit-Icon.png" />](https://www.reddit.com/user/Elyes9918/)
 <br/>
 <br/>
-<hr/>
+<hr>
 <br/>
 
 ### Languages and Tools
