@@ -23,6 +23,9 @@
 <img align="left" alt="Git" width="31px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
 <img align="left" alt="Angular" width="31px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/21_Angular-512.png" />
 <img align="left" alt="NodeJs" width="31px" src="https://cdn.iconscout.com/icon/free/png-512/node-js-1174925.png" />
+<img align="left" alt="MongoDB" width="31px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Antu_mongodb.svg/1200px-Antu_mongodb.svg.png" />
+
+
 
 <br/>
 <br/>
