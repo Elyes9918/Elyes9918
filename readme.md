@@ -1,7 +1,7 @@
 ### Hi There :wave:
 
 <hr>
-<img align="left" width = "230px" height = "80px" src="https://c.tenor.com/uZv4t9KXvCMAAAAC/rainbow-cat-rainbow.gif" /> <img align="center" width="200px" height ="65px" src ="https://freepngimg.com/thumb/unicorn/26005-3-unicorn-transparent-image.png"/><hr>
+<img align="left" width = "230px" height = "80px" src="https://i.gifer.com/17xo.gif" /> <img align="center" width="200px" height ="65px" src ="https://freepngimg.com/thumb/unicorn/26005-3-unicorn-transparent-image.png"/><hr>
 
 
 ### Connect With me 
