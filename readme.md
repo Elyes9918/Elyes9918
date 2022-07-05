@@ -13,17 +13,16 @@
 
 
 ### Languages and Tools
-<img align="left" alt="HTML5" width="31px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="31px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="31px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1024px-Sass_Logo_Color.svg.png" />
-<img align="left" alt="JavaScript" width="31px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Java" width="31px" src="https://logoeps.com/wp-content/uploads/2011/06/java-logo-vector.png" />
-<img align="left" alt="C++" width="31px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png" />
-<img align="left" alt="Git" width="31px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
+
+<img align="left" alt="SpringBoot" width="31px" src="https://atomrace.com/blog/wp-content/uploads/2018/05/spring-boot-logo.png" />
 <img align="left" alt="Angular" width="31px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/21_Angular-512.png" />
 <img align="left" alt="NodeJs" width="31px" src="https://cdn.iconscout.com/icon/free/png-512/node-js-1174925.png" />
 <img align="left" alt="MongoDB" width="31px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Antu_mongodb.svg/1200px-Antu_mongodb.svg.png" />
 <img align="left" alt="Python" width="31px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" />
+<img align="left" alt="Sass" width="31px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1024px-Sass_Logo_Color.svg.png" />
+<img align="left" alt="Git" width="31px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
+
+
 
 
 
