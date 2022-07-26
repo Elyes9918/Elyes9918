@@ -14,7 +14,6 @@
 
 ### Languages and Tools
 
-<img align="left" alt="firebase" width="31px" src="https://seeklogo.com/images/F/firebase-rtdb-logo-C976B2C606-seeklogo.com.png" />
 <img align="left" alt="React" width="31px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" />
 <img align="left" alt="SpringBoot" width="31px" src="https://blog.talanlabs.com/microservices-partie-4-spring-boot/cover.png" />
 <img align="left" alt="Angular" width="31px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/21_Angular-512.png" />
