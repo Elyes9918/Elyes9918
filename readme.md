@@ -1,8 +1,6 @@
 ### Hi There :wave:
 
 <hr>
-<img align="left" width = "230px" height = "80px" src="https://data.whicdn.com/images/244793515/original.gif" /> <img align="center" width="200px" height ="65px" src ="https://freepngimg.com/thumb/unicorn/26005-3-unicorn-transparent-image.png"/><hr>
-
 
 ### Connect With me 
 [<img align="left" alt="Instagram" width="34px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" />](https://www.instagram.com/elyes_bouallegue/)
